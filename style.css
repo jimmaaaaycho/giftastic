@@ -1,0 +1,33 @@
+body {
+	background: url(scotland.jpg);
+	background-size: cover;
+
+}
+
+.container {
+	padding-top: 50px;
+	width: 975px;
+}
+
+button {
+	border-radius: 5px;
+	background-color: white;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+}
+
+button:hover {
+	border-radius: 5px;
+	background-color: dodgerblue; /* Green */
+    color: white;
+}
+
+#animal-form {
+	float: right;
+	text-align: center;
+}
+
+.images {
+	border-radius: 25px;
+}
